@@ -1,4 +1,1 @@
-
-welcome to the my django webpage!!!
-
-now i wanna to add new commit
+1-I clear all text in this .txt file
