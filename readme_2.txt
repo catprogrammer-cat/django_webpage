@@ -1,1 +1,0 @@
-1-I clear all text in this .txt file
